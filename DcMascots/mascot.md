@@ -8,6 +8,6 @@
 | **2013** | Vaumarcus,Switzerland| <img src="https://github.com/varghesejose2020/debconf/blob/main/DcMascots/dc13.png" width="200px">    |
 | **2014** | Portland, Oregont| <img src="https://github.com/varghesejose2020/debconf/blob/main/DcMascots/dc14.png" width="200px">   |
 | **2015** | Heidelberg, Germany   | <img src="https://github.com/varghesejose2020/debconf/blob/main/DcMascots/dc15.png" width="200px">   |
-| **2016** | Ada   | <img src="https://github.com/varghesejose2020/debconf/blob/main/DcMascots/dc15.png" width="200px">   |
+| **2016** | Cape Town, South Africa   | <img src="https://github.com/varghesejose2020/debconf/blob/main/DcMascots/dc16.jpg" width="200px">   |
 | **2017** | Ada   | <img src="https://github.com/varghesejose2020/debconf/blob/main/DcMascots/dc15.png" width="200px">   |
 | **2018** | Ada   | <img src="https://github.com/varghesejose2020/debconf/blob/main/DcMascots/dc15.png" width="200px">   |
