@@ -1,4 +1,4 @@
-# DebConf**Season Mascot**    
+# DebConf **Mascot**    
 
 | Debconf year| City| Mascot Image  |
 | :-------------: |:-------------:| :-----:|
