@@ -6,5 +6,5 @@
 | **2011**|Banski Dvor / Bans Palacet|   <img src="https://github.com/varghesejose2020/debconf/blob/main/DcMascots/dc11.png" width="200px"> |
 | **2012** | Managua, Nicaragua| <img src="https://github.com/varghesejose2020/debconf/blob/main/DcMascots/dc12.png" width="200px">   |
 | **2013** | Vaumarcus,Switzerland| <img src="https://github.com/varghesejose2020/debconf/blob/main/DcMascots/dc13.png" width="200px">    |
-| **2018** | Bit the Bot| <img src="https://github.com/varghesejose2020/Major-League-Hacking/blob/main/Information/Mascot/2018.png" width="200px">   |
+| **2018** | Bit the Bot| <img src="https://github.com/varghesejose2020/debconf/blob/main/DcMascots/dc14.png" width="200px">   |
 | **2017** | Ada   | <img src="https://github.com/varghesejose2020/Major-League-Hacking/blob/main/Information/Mascot/2017.jpeg" width="200px">   |
