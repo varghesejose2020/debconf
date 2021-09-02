@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://github.com/varghesejose2020/debconf/blob/main/DcMascots/debian.png" width="100px">
 </p>
-
+<hr>
 
 
 # DebConf **Mascot**    
