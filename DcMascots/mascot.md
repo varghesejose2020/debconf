@@ -13,4 +13,4 @@
 | **2018** | Hsinchu, Taiwan   | <img src="https://github.com/varghesejose2020/debconf/blob/main/DcMascots/dc18.svg" width="200px">   |
 | **2019** | Curitiba, Brazil   | <img src="https://github.com/varghesejose2020/debconf/blob/main/DcMascots/dc19.svg" width="200px">   |
 | **2020** | Online, due to COVID-19   | <img src="https://github.com/varghesejose2020/debconf/blob/main/DcMascots/dc20.svg" width="200px">   |
-| **2021** | Ada   | <img src="https://github.com/varghesejose2020/debconf/blob/main/DcMascots/dc18.svg" width="200px">   |
+| **2021** | Online, due to COVID-19   | <img src="https://github.com/varghesejose2020/debconf/blob/main/DcMascots/dc21.svg" width="200px">   |
