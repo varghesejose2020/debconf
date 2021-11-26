@@ -21,4 +21,10 @@
 | **2019** | Curitiba, Brazil   | <img src="https://github.com/varghesejose2020/debconf/blob/main/Logos/Images/Logos/dc19.svg" width="200px">   |
 | **2020** | Online, due to COVID-19   | <img src="https://github.com/varghesejose2020/debconf/blob/main/Logos/Images/Logos/dc20.svg" width="200px">   |
 | **2021** | Online, due to COVID-19   | <img src="https://github.com/varghesejose2020/debconf/blob/main/Logos/Images/Logos/dc21.svg" width="200px">   |
+| **2022** | Prizren, Kosovo  | <img src="https://github.com/varghesejose2020/debconf/blob/main/Logos/Images/Logos/dc22.png" width="200px">   |
+
+
+
+
+
 
