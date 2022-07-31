@@ -9,6 +9,7 @@
 
 | Debconf year| City| Mascot Image  |
 | :-------------: |:-------------:| :-----:|
+| **2009**| Cáceres, Extremadura, Spain|  <img src="https://github.com/varghesejose2020/debconf/blob/main/Logos/Images/Logos/dc10.png" width="200px"> |
 | **2010**| New York City|  <img src="https://github.com/varghesejose2020/debconf/blob/main/Logos/Images/Logos/dc10.png" width="200px"> |
 | **2011**|Banski Dvor / Bans Palacet|   <img src="https://github.com/varghesejose2020/debconf/blob/main/Logos/Images/Logos//dc11.png" width="200px"> |
 | **2012** | Managua, Nicaragua| <img src="https://github.com/varghesejose2020/debconf/blob/main/Logos/Images/Logos/dc12.png" width="200px">   |
