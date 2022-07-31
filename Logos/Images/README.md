@@ -9,6 +9,7 @@
 
 | Debconf year| City| Mascot Image  |
 | :-------------: |:-------------:| :-----:|
+| **2007**| Edinburgh, Scotland|  <img src="https://github.com/varghesejose2020/debconf/blob/main/Logos/Images/Logos/dc7.png" width="200px"> |
 | **2008**| Mar del Plata, Argentina|  <img src="https://github.com/varghesejose2020/debconf/blob/main/Logos/Images/Logos/dc8.png" width="200px"> |
 | **2009**| Cáceres, Extremadura, Spain|  <img src="https://github.com/varghesejose2020/debconf/blob/main/Logos/Images/Logos/dc9.png" width="200px"> |
 | **2010**| New York City|  <img src="https://github.com/varghesejose2020/debconf/blob/main/Logos/Images/Logos/dc10.png" width="200px"> |
