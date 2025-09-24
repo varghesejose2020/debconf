@@ -20,7 +20,7 @@
 | **2022** | Prizren, Kosovo  | <img src="https://github.com/varghesejose2020/debconf/blob/main/Logos/Images/Logos/dc22.svg" width="200px">   |
 | **2023** | Kochi, India  | <img src="https://github.com/varghesejose2020/debconf/blob/main/Logos/Images/Logos/dC23.svg" width="200px">
 | **2024** | Busan, South Korea  | <img src="https://github.com/varghesejose2020/debconf/blob/main/Logos/Images/Logos/dc24.svg" width="200px">   |
-
+| **2025** | Brest, France  | <img src="https://github.com/varghesejose2020/debconf/blob/main/Logos/Images/Logos/dc24.svg
 
 
 
