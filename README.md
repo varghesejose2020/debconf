@@ -21,7 +21,7 @@
 | **2023** | Kochi, India  | <img src="https://github.com/varghesejose2020/debconf/blob/main/Logos/Images/Logos/dC23.svg" width="200px">
 | **2024** | Busan, South Korea  | <img src="https://github.com/varghesejose2020/debconf/blob/main/Logos/Images/Logos/dc24.svg" width="200px">   |
 | **2025** | Brest, France  | <img src="https://github.com/varghesejose2020/debconf/blob/main/Logos/Images/Logos/logo.7986b4c57d86.svg" width="200px">|
-| **2026** | Santa Fe, Argentina  | <img src="https://github.com/varghesejose2020/debconf/blob/main/Logos/Images/Logos/logo.7986b4c57d86.svg
+| **2026** | Santa Fe, Argentina  | <img src="https://github.com/varghesejose2020/debconf/blob/main/Logos/Images/Logos/logo-debconfest.741127de73ed.svg" width="200px"> |
 
 
 
